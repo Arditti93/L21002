@@ -10,6 +10,5 @@ print(int(num_1) / int(num_2))
 print(int(num_1) * int(num_2))
 
 
-
 # name = input('Enter your name: ')
 # print(f"Hello {name}")
