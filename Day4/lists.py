@@ -26,13 +26,13 @@ print(coffee_order)
 
 # accessing indavidual items in our list and printing it
 # Python is indexed from zero so we start counting from 0 in a list
-#print(coffee_order[1])
+print(coffee_order[1])
 
-#coffee_order[1] = "Emily - Black Coffee"
-#print(coffee_order)
+coffee_order[1] = "Emily - Black Coffee"
+print(coffee_order)
 
 # counts the items in the list, doesn't count from zero
-#print(len(coffee_order))
+print(len(coffee_order))
  
 # adds an item to the end of the list
 coffee_order.append("Ben - Whatever is new")
